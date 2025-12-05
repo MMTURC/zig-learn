@@ -16,3 +16,5 @@ build.zig.zon serves as a way for us to fetch dependencies from the internet.
 Think of it as zigs version of Pipfile, Cargo.toml, and package.json. 
 
 It is considered standard to remove the main.zig file in case
+
+We can build our entire project with zig build.
